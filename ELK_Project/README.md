@@ -132,13 +132,13 @@ cd /etc/ansible
 
 Pull install_elk-playbook.yml
 ```
-curl -L -O https://raw.githubusercontent.com/briggsbastian/UCSD_CyberSec/main/Project-1/Ansible/install_elk-playbook.yml
+curl -L -O https://raw.githubusercontent.com/briggsbastian/UCSD_Bootcamp/main/ELK_Project/Ansible/install_elk-playbook.yml
 ```
 Pull filebeat-config.yml
 ```
-curl -L -O https://raw.githubusercontent.com/briggsbastian/UCSD_CyberSec/main/Project-1/Ansible/filebeat-config.yml
+curl -L -O https://raw.githubusercontent.com/briggsbastian/UCSD_Bootcamp/main/ELK_Project/Ansible/filebeat-config.yml
 ```
 Pull Metricbeat and Filebeat installer 
 ```
-curl -L -O https://raw.githubusercontent.com/briggsbastian/UCSD_CyberSec/main/Project-1/Ansible/install_metricbeat_and_filebeat-playbook.yml
+curl -L -O https://raw.githubusercontent.com/briggsbastian/UCSD_Bootcamp/main/ELK_Project/Ansible/install_metricbeat_and_filebeat-playbook.yml
 ```
