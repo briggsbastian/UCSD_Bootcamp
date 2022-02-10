@@ -1,0 +1,12 @@
+{
+  "ip": "104.223.95.86",
+  "hostname": "unassigned.quadranet.com",
+  "city": "Atlanta",
+  "region": "Georgia",
+  "country": "US",
+  "loc": "33.7525,-84.3888",
+  "org": "AS8100 QuadraNet Enterprises LLC",
+  "postal": "30303",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+}

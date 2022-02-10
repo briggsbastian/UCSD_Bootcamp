@@ -1,0 +1,18 @@
+#!/bin/bash
+# Create a variable to hold the path of your output file
+# PATH=$PATH:/home/sysadmin/funScripts
+#Create an if statement that checks for the existence of the ~/research directory
+if[ -d ~/research]
+then
+echo "Directory found!"
+else
+echo "Directory made!"
+mkdir ~/research
+fi
+#Create an if statement that checks for the existence of the file ~/research/sys_info.txt
+#if[]
+#then
+
+#else
+
+#fi

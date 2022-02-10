@@ -1,0 +1,3 @@
+if[awk -F '{print $(}' 0310_Dealer_schedule == awk -F '{print $(1)}' Roulette_Dealers] then
+
+done
